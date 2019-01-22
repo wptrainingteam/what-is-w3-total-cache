@@ -166,18 +166,18 @@ There are other caching plugins out there - some of the most popular alternative
 4.  Makes the website design to look better
 5.  Attracts more visitors
 
-Correct answer: 2\. Decreases page loading speed & 3\. Decreases server load **Which of the following best describes minification?**
+**Answer:** 2\. Decreases page loading speed & 3\. Decreases server load **Which of the following best describes minification?**
 
 1.  Compressing the web pages' data
 2.  Removing all unnecessary data from the code without affecting performance
 3.  Increasing speed by storing data that is slow to generate in a place that’s quicker to access
 
-Correct answer: 2. Removing all unnecessary data from the code without affecting performance **Do you need to keep W3TC activated to reap its benefits?**
+**Answer:** 2. Removing all unnecessary data from the code without affecting performance **Do you need to keep W3TC activated to reap its benefits?**
 
 1.  Yes
 2.  No, it can be deactivated after the initial setup
 
-Correct answer: 1\. Yes    
+**Answer:** 1\. Yes    
 
 * * *
 
