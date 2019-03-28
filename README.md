@@ -67,7 +67,7 @@ Now it's time to install the W3 Total Cache plugin and activate it. Before you a
 
 #### W3 Total Cache Dashboard
 
-After you’ve activated W3 Total Cache, you should be able to see a new **performance** tab in the side menu. Clicking here will take you to the W3 Total Cache **dashboard**. [![w3-total-cache-dashboard](https://make.wordpress.org/training/files/2015/12/w3-total-cache-dashboard.png)](https://make.wordpress.org/training/files/2015/12/w3-total-cache-dashboard.png) The dashboard has several blocks which can be used for the following:
+After you’ve activated W3 Total Cache, you should be able to see a new **performance** tab in the side menu. Clicking here will take you to the W3 Total Cache **dashboard**. [![w3-total-cache-dashboard](/images/w3-total-cache-dashboard.png)](/images/w3-total-cache-dashboard.png) The dashboard has several blocks which can be used for the following:
 
 1.  Check out prices for premium services (paid support, etc)
 2.  Support the plugin by spreading the word, etc
