@@ -67,7 +67,7 @@ Now it's time to install the W3 Total Cache plugin and activate it. Before you a
 
 #### W3 Total Cache Dashboard
 
-After you’ve activated W3 Total Cache, you should be able to see a new **performance** tab in the side menu. Clicking here will take you to the W3 Total Cache **dashboard**. [![w3-total-cache-dashboard](/images/w3-total-cache-dashboard.jpg)](/images/w3-total-cache-dashboard.jpg) The dashboard has several blocks which can be used for the following:
+After you’ve activated W3 Total Cache, you should be able to see a new **performance** tab in the side menu. Clicking here will take you to the W3 Total Cache **dashboard**. [![w3-total-cache-dashboard](/images/w3-total-cache-dashboard.png)](/images/w3-total-cache-dashboard.png) The dashboard has several blocks which can be used for the following:
 
 1.  Check out prices for premium services (paid support, etc)
 2.  Support the plugin by spreading the word, etc
@@ -96,7 +96,7 @@ Our next option in the **general settings** tab is **page cache**. We have menti
 
 #### Minify
 
-The **Minify** module controls whether HTML, CSS and Javascript files are minified and compressed. Minification characterizes by removing all unnecessary or redundant data from the code without affecting performance. This leads to website pages loading faster and generally speeds up site operation. However, you need to be really careful when setting up minification as there are a lot of parts that could potentially conflict and hinder each other's performance. For the purposes of this lesson, we will simply try the default settings as generally you need to proceed with caution when attempting minification. Let's enable minification and leave the default settings active. After that, make sure to check your website to ensure nothing was broken. [tip]It's a good idea to try enabling minification in the Preview mode.[/tip] [![minify-settings](https://make.wordpress.org/training/files/2015/12/minify-settings.png)](https://make.wordpress.org/training/files/2015/12/minify-settings.png)
+The **Minify** module controls whether HTML, CSS and Javascript files are minified and compressed. Minification characterizes by removing all unnecessary or redundant data from the code without affecting performance. This leads to website pages loading faster and generally speeds up site operation. However, you need to be really careful when setting up minification as there are a lot of parts that could potentially conflict and hinder each other's performance. For the purposes of this lesson, we will simply try the default settings as generally you need to proceed with caution when attempting minification. Let's enable minification and leave the default settings active. After that, make sure to check your website to ensure nothing was broken. [tip]It's a good idea to try enabling minification in the Preview mode.[/tip] [![minify-settings](/images/minify-settings.png)](/images/minify-settings.png)
 
 ##### Browser Cache
 
